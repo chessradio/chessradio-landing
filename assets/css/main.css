@@ -4014,3 +4014,10 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: black;
 	}
+
+	@media screen and (min-width: 480px) {
+
+		.stores {
+			width: 20%;
+		}
+	}
